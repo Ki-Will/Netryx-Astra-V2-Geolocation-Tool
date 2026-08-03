@@ -2,3 +2,8 @@ venv/
 .vscode
 netryx_data
 __pycache__/
+todo.txt
+installer.log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
